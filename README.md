@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="left"> 
-  <img alt="TopLangs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otazero&count_private=true&layout=compact&theme=tokyonight" />
-  <img alt="GitHub-Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=otazero&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
+  <img href="https://github.com/otazero/" alt="TopLangs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otazero&count_private=true&layout=compact&theme=tokyonight" />
+  <img href="https://github.com/otazero/" alt="GitHub-Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=otazero&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
 <!-- リポジトリステータス -->
